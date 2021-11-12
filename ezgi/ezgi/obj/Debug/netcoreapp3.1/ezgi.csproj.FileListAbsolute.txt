@@ -1,0 +1,14 @@
+C:\Users\LAB03\source\repos\ezgi\ezgi\bin\Debug\netcoreapp3.1\ezgi.exe
+C:\Users\LAB03\source\repos\ezgi\ezgi\bin\Debug\netcoreapp3.1\ezgi.deps.json
+C:\Users\LAB03\source\repos\ezgi\ezgi\bin\Debug\netcoreapp3.1\ezgi.runtimeconfig.json
+C:\Users\LAB03\source\repos\ezgi\ezgi\bin\Debug\netcoreapp3.1\ezgi.runtimeconfig.dev.json
+C:\Users\LAB03\source\repos\ezgi\ezgi\bin\Debug\netcoreapp3.1\ezgi.dll
+C:\Users\LAB03\source\repos\ezgi\ezgi\bin\Debug\netcoreapp3.1\ezgi.pdb
+C:\Users\LAB03\source\repos\ezgi\ezgi\obj\Debug\netcoreapp3.1\ezgi.csproj.AssemblyReference.cache
+C:\Users\LAB03\source\repos\ezgi\ezgi\obj\Debug\netcoreapp3.1\ezgi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB03\source\repos\ezgi\ezgi\obj\Debug\netcoreapp3.1\ezgi.AssemblyInfoInputs.cache
+C:\Users\LAB03\source\repos\ezgi\ezgi\obj\Debug\netcoreapp3.1\ezgi.AssemblyInfo.cs
+C:\Users\LAB03\source\repos\ezgi\ezgi\obj\Debug\netcoreapp3.1\ezgi.csproj.CoreCompileInputs.cache
+C:\Users\LAB03\source\repos\ezgi\ezgi\obj\Debug\netcoreapp3.1\ezgi.dll
+C:\Users\LAB03\source\repos\ezgi\ezgi\obj\Debug\netcoreapp3.1\ezgi.pdb
+C:\Users\LAB03\source\repos\ezgi\ezgi\obj\Debug\netcoreapp3.1\ezgi.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\LAB03\source\repos\asuman\asuman\bin\Debug\asuman.exe.config
+C:\Users\LAB03\source\repos\asuman\asuman\bin\Debug\asuman.exe
+C:\Users\LAB03\source\repos\asuman\asuman\bin\Debug\asuman.pdb
+C:\Users\LAB03\source\repos\asuman\asuman\obj\Debug\asuman.csproj.AssemblyReference.cache
+C:\Users\LAB03\source\repos\asuman\asuman\obj\Debug\asuman.Form1.resources
+C:\Users\LAB03\source\repos\asuman\asuman\obj\Debug\asuman.Properties.Resources.resources
+C:\Users\LAB03\source\repos\asuman\asuman\obj\Debug\asuman.csproj.GenerateResource.cache
+C:\Users\LAB03\source\repos\asuman\asuman\obj\Debug\asuman.csproj.CoreCompileInputs.cache
+C:\Users\LAB03\source\repos\asuman\asuman\obj\Debug\asuman.exe
+C:\Users\LAB03\source\repos\asuman\asuman\obj\Debug\asuman.pdb
+C:\Users\LAB03\source\repos\asuman\asuman\obj\Debug\asuman.Form2.resources
+C:\Users\LAB03\source\repos\asuman\asuman\obj\Debug\asuman.Form3.resources
+C:\Users\LAB03\source\repos\asuman\asuman\obj\Debug\asuman.Form4.resources
+C:\Users\LAB03\source\repos\asuman\asuman\obj\Debug\asuman.Form5.resources
